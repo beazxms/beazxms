@@ -5,7 +5,7 @@
   <p align="center">
     <img src="https://github.com/beazxms/beazxms/blob/main/assets/Jump%20Love%20Sticker.gif?raw=true" width="50px">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="" width="30px">
+    <img src="https://github.com/beazxms/beazxms/blob/main/assets/metallirakas.png?raw=true" width="30px">
   </p>
 
   <h1>  Olá, eu sou a Beatriz! </h1>
@@ -23,9 +23,9 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiasta do desenvolvimento Front-end que acredita que o código e o design devem caminhar de mãos dadas. Minha jornada une a precisão técnica com a sensibilidade estética.
 
-- ✨ **UI/UX:** Curso concluído, focada em criar interfaces intuitivas e "pixel perfect" usando o **Figma** + **IA Generativa**.
-- 💻 **Tech Stack:** Sólida base em **JavaScript**, **HTML** e **CSS**, com conhecimento fundamental em **C** para lógica de programação.
-- 🎨 **Vibe:** Amante do minimalismo, tons pastéis e documentações bem organizadas.
+- **UI/UX:** Curso concluído, focada em criar interfaces intuitivas e "pixel perfect" usando o **Figma** + **IA Generativa**.
+- **Tech Stack:** Sólida base em **JavaScript**, **HTML** e **CSS**, com conhecimento fundamental em **C** para lógica de programação.
+- **Vibe:** Amante do minimalismo e documentações bem organizadas.
 
 <br>
 
