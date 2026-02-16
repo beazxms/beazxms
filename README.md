@@ -3,7 +3,7 @@
   <img src="LINK_DO_SEU_BANNER_AQUI" alt="Banner" width="100%">
 
   <p align="center">
-    <img src="assets/JumpStiker.gif" width="30px">
+    <img src="https://github.com/beazxms/beazxms/blob/main/assets/Jump%20Love%20Sticker.gif?raw=true" width="50px">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="LINK_DE_OUTRA_IMAGEM_FOFA" width="30px">
   </p>
@@ -73,3 +73,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 
 
 ###
+
+[def]: ssejunp.gi
