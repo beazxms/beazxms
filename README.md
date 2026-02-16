@@ -15,8 +15,6 @@
 
 <br>
 
----
-
 ### Quem Sou Eu?
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiasta do desenvolvimento Front-end que acredita que o código e o design devem caminhar de mãos dadas. Minha jornada une a precisão técnica com a sensibilidade estética.
 
@@ -27,32 +25,33 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 <br>
 
 <div align="center">
-  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=FFB7C5"></a>
-  <a href="SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=FFB7C5"></a>
-</div>
+  <a href="https://www.linkedin.com/in/beatriz-de-medeiros-silva-463003386/#:~:text=www.linkedin.com/in/beatriz%2Dde%2Dmedeiros%2Dsilva%2D463003386"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=FFB7C5"></a>
+  
 
----
-
-### 📊 GitHub Metrics
+### 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beazxms&bg_color=0d1117&color=FFB7C5&line=FFB7C5&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
----
 
-### 🛠️ Minhas Stacks & Ferramentas
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=FF7262">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
----
+
 <div align="center">
    <img src="https://github.com/beazxms/beazxms/blob/main/assets/beatriz.png?raw=true" width="200px">
 </div>
