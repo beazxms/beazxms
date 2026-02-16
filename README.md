@@ -54,7 +54,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 
 ---
 <div align="center">
-   <img src="LINK_DE_OUTRA_IMAGEM_PEQUENA_E_FOFA_NO_RODAPE" width="60px">
+   <img src="https://github.com/beazxms/beazxms/blob/main/assets/beatriz.png?raw=true" width="200px">
 </div>
 
 
