@@ -5,7 +5,7 @@
   <p align="center">
     <img src="https://github.com/beazxms/beazxms/blob/main/assets/Jump%20Love%20Sticker.gif?raw=true" width="50px">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="LINK_DE_OUTRA_IMAGEM_FOFA" width="30px">
+    <img src="" width="30px">
   </p>
 
   <h1>  Olá, eu sou a Beatriz! </h1>
