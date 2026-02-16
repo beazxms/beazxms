@@ -39,17 +39,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beazxms&show_icons=true&theme=dracula&title_color=FFB7C5&text_color=FFFFFF&icon_color=FFB7C5&bg_color=0d1117&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazxms&layout=compact&theme=dracula&title_color=FFB7C5&text_color=FFFFFF&icon_color=FFB7C5&bg_color=0d1117&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beazxms&bg_color=0d1117&color=FFB7C5&line=FFB7C5&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
