@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img src="LINK_DO_SEU_BANNER_AQUI" alt="Banner" width="100%">
+  <img src="https://github.com/beazxms/beazxms/blob/main/assets/kuromi%20banner.png?raw=true" alt="Banner" width="100%">
 
   <p align="center">
     <img src="https://github.com/beazxms/beazxms/blob/main/assets/Jump%20Love%20Sticker.gif?raw=true" width="50px">
@@ -18,9 +18,6 @@
 ---
 
 ### Quem Sou Eu?
-
-<img align="right" src="https://github.com/beazxms.png" width="160px" style="border-radius: 50%;">
-
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiasta do desenvolvimento Front-end que acredita que o código e o design devem caminhar de mãos dadas. Minha jornada une a precisão técnica com a sensibilidade estética.
 
 - **UI/UX:** Curso concluído, focada em criar interfaces intuitivas e "pixel perfect" usando o **Figma** + **IA Generativa**.
