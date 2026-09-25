@@ -10,17 +10,14 @@
 
   <h1>  Olá, eu sou a Beatriz! </h1>
   
-  <code><b>Front-end Developer | UI/UX Designer | ADS Student</b></code>
+  <code><b>Full Stack Dev | UI/UX Designer | ADS Student</b></code>
 </div>
 
 <br>
 
 ### Quem Sou Eu?
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiasta do desenvolvimento Front-end que acredita que o código e o design devem caminhar de mãos dadas. Minha jornada une a precisão técnica com a sensibilidade estética.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento Full Stack. Trabalho com JavaScript, HTML, CSS e tenho base em C e domino Figma + UI/UX Design.
 
-- **UI/UX:** Curso concluído, focada em criar interfaces intuitivas e "pixel perfect" usando o **Figma** + **IA Generativa**.
-- **Tech Stack:** Sólida base em **JavaScript**, **HTML** e **CSS**, com conhecimento fundamental em **C** para lógica de programação.
-- **Vibe:** Amante do minimalismo e documentações bem organizadas.
 
 <br>
 
@@ -30,9 +27,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 
 ### 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beazxms&bg_color=0d1117&color=FFB7C5&line=FFB7C5&point=FFFFFF&area=true&hide_border=true" width="100%">
-</div>
 
 
 ###
@@ -53,7 +47,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sou uma entusiast
 
 
 <div align="center">
-   <img src="https://github.com/beazxms/beazxms/blob/main/assets/beatriz.png?raw=true" width="200px">
+  <img src="https://github.com/beazxms/beazxms/blob/main/assets/beatriz.png?raw=true" width="200px">
 </div>
 
 
