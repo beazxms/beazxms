@@ -16,7 +16,7 @@
 <br>
 
 ### Quem Sou Eu?
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento Full Stack. Trabalho com JavaScript, HTML, CSS e tenho base em C e domino Figma + UI/UX Design.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento Full Stack. Trabalho com JavaScript, HTML, CSS, tenho base em C e também trabalho com Figma + UI/UX Design.
 
 
 <br>
